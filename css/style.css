@@ -1,0 +1,106 @@
+/* Ini CSS code Kalkulator Segitiga */
+body {
+    background-color: bisque;
+}
+
+header {
+    background: #E91E63;
+    text-align: center;
+}
+
+.Judul {
+    display: block;
+    font-size: 2em;
+    margin-block-start: 0px;
+    margin-block-end: 0px;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+    unicode-bidi: isolate;
+}
+
+.welcome {
+    display: block;
+    margin-block-start: 0px;
+    margin-block-end: 0px;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    unicode-bidi: isolate;
+}
+
+.div-segitiga {
+    width: 100%;
+    background-color: cadetblue;
+    color: aliceblue;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    align-content: center;
+    text-align: center;
+    height: 40px;
+}
+
+.switch-keliling {
+
+    text-align: center;
+}
+
+.div-luassegitiga {
+    width: 100%;
+    background-color: cadetblue;
+    color: aliceblue;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    align-content: center;
+    text-align: center;
+    height: 40px;
+}
+
+.pic-segitiga {
+    text-align: center;
+}
+
+.rumus {
+    background-color: aliceblue;
+    text-align: center;
+}
+input {
+    background-color: azure;
+    border: 1px solid;
+    border-radius: 4px;
+    width: 100%;
+    font-family: math;
+}
+img {height: 100px;}
+form>button {
+    padding: 32px;
+    background-color: greenyellow;
+    border: 1px solid;
+    border-radius: 18px;
+}
+#btn-hitung {
+    padding: 32px;
+    background-color: greenyellow;
+    border: 1px solid;
+    border-radius: 18px;
+
+}
+#btn-reset {
+    padding: 18px;
+    background-color: rgb(255, 151, 47);
+    border: 1px solid;
+    border-radius: 18px;
+}
+
+.switch-luas {
+    text-align: center;
+}
+.div-kelsegitiga {
+    width: 100%;
+    background-color: cadetblue;
+    color: aliceblue;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    align-content: center;
+    text-align: center;
+    height: 40px;
+}
